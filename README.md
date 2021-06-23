@@ -25,6 +25,15 @@
 - KNN
 
 ## 03_Regression
-- 단순선형회귀
-- 단순선형회귀_당뇨병_모델평가(r2,mean_Squared_error,scatter_graph)
-- 보스턴 주택가격
+- simple linear regression
+- simple linear regression_diabetes_model_evaluation(r2,mean_Squared_error,scatter_graph)
+- boston data
+
+## 04_PCA
+ - PCA
+ - wine data
+ - breast-cancer data
+ 
+## 05_Clustering
+- kmeans
+- shilhouette analysis 
