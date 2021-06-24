@@ -3,6 +3,7 @@
 # directory/ 
 pima-indians-diabetes.csv
 train.csv
+labeledTrainData.tsv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
