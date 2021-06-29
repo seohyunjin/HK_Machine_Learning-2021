@@ -4,6 +4,7 @@
 pima-indians-diabetes.csv
 train.csv
 labeledTrainData.tsv
+excercise.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
