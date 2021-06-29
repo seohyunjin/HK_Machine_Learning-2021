@@ -37,3 +37,9 @@
 ## 05_Clustering
 - kmeans
 - shilhouette analysis 
+
+## 06_TextAnalysis
+- bagofwords
+- newsgroup
+- imdb movie review
+- naver movie review
